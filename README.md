@@ -18,8 +18,7 @@
 - **Czerwone Rubiny** - Tawerna w której się zarejestrowaliśmy 
 
 ## Organizacje 
-- **wyznawcy innego smoka/boga** - chca zabic **floppa**
-
+- **Wyznawcy innego smoka/boga** - chca zabic **floppa**
 
 ## Sesja 1
 rejestracja grupy - przy smierci wyrejestrujemy sie automatycznie, jak reinkarnacja to przerejestrowac trzeba 

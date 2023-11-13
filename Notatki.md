@@ -13,7 +13,7 @@
 - **Tymoteusz Rajner** - Gubernator, wysoko postawiony, rezyduje na codzień w wieży, ma drewnianą rezydencję na obrzeżach miasta
 - **Pharasma** - Bogini śmierci i życia. Kojarzymy wizję, ale nie wiemy czy to się faktycznie wydarzyło
 - **Lukas** - Oficer, który nas przyprowadził do gubernatora
-- [Szefowa](Gildia) - Przywódczyni Gildii złodziei - Aktualnie przebywa
+- **[Szefowa](Organizacje)** - Przywódczyni Gildii złodziei - Aktualnie przebywa
 - **Metalowy pies** - ???
 
 
@@ -22,7 +22,7 @@
 
 ## Organizacje 
 - **Wyznawcy innego smoka/boga** - chca zabic **floppa**
-- <a name="Gildia">**Gang płonącego miecza** = **Gildia złodziei**</a> - sygnety są od niego
+- **Gang płonącego miecza** = **Gildia złodziei** - sygnety są od niego
 
 ## Sesja 1
 Tymoteusz Rajner - gubernator, wysoko postawiony spotkanie z pharasma - nie wiemy czy to się faktycznie wydarzyło

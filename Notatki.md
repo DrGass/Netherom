@@ -29,8 +29,10 @@
 - **Gang płonącego miecza** = **Gildia złodziei** - sygnety są od niego
 
 ## Todo
-- [] "Obrabować" dom **Gubernatora**
-- [] "Zdobyć zaufanie **Szefowej**
+- [ ] "Obrabować" dom **Gubernatora**
+- [ ] Zdobyć zaufanie **Szefowej**
+- [ ] Zostać wsadzonym do więzienia 🫀
+- [ ] Znaleźć lepszą kryjówkę
 
 ## Sesja 1
 _Starozytny dziennik_

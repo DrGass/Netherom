@@ -19,7 +19,7 @@
 
 ## Organizacje 
 - **Wyznawcy innego smoka/boga** - chca zabic **floppa**
-- **gang płonącego miecza** - sygnety są od niego
+- **Gang płonącego miecza** - sygnety są od niego
 
 ## Sesja 1
 rejestracja grupy - przy smierci wyrejestrujemy sie automatycznie, jak reinkarnacja to przerejestrowac trzeba 

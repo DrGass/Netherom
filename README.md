@@ -19,6 +19,7 @@
 
 ## Organizacje 
 - **Wyznawcy innego smoka/boga** - chca zabic **floppa**
+- **gang płonącego miecza** - sygnety są od niego
 
 ## Sesja 1
 rejestracja grupy - przy smierci wyrejestrujemy sie automatycznie, jak reinkarnacja to przerejestrowac trzeba 
@@ -57,4 +58,3 @@ na samym koncu hangaru skrzynki z materiałami, dziwnie poustawiane są
 
 proszek ze skrzyni - pozostałość z bomb, które użyli do napadu
 
-gang płonącego miecza - sygnety są od niego

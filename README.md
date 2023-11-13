@@ -10,7 +10,7 @@
 
 ## Osoby
 
-- #### **[Szefowa](#Organizacje)** - Przywódczyni Gildii złodziei - Aktualnie przebywa w wynajmowanym mieszkaniu w kamienicy z jej strażnikiem.
+- **[Szefowa](#Organizacje)** - Przywódczyni Gildii złodziei - Aktualnie przebywa w wynajmowanym mieszkaniu w kamienicy z jej strażnikiem.
 - **Tymoteusz Rajner** - Gubernator, wysoko postawiony, rezyduje na codzień w wieży, ma drewnianą rezydencję na obrzeżach miasta
 - **Pharasma** - Bogini śmierci i życia. Kojarzymy wizję, ale nie wiemy czy to się faktycznie wydarzyło
 - **Lukas** - Oficer, który nas przyprowadził do gubernatora
@@ -27,8 +27,8 @@
 - **Iron haven** - Stolica postępu, maszyn, generalnie steampunk, miejsce naszych przygód, znajduje sie tutaj _Starozytny dziennik_
 
 ## Organizacje 
-- **Wyznawcy innego smoka/boga** - chca zabic **floppa**
-- **[Gang płonącego miecza](#Szefowa)** = **[Gildia złodziei](#Szefowa)** - sygnety są od niego
+- **Wyznawcy innego smoka/boga** - chca zabic **Floppa**
+- **Gang płonącego miecza** = **Gildia złodziei** - sygnety są od niego
 
 ## Todo
 - [ ] "Obrabować" dom **Gubernatora**

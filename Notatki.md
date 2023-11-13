@@ -13,24 +13,30 @@
 - **Tymoteusz Rajner** - Gubernator, wysoko postawiony, rezyduje na codzień w wieży, ma drewnianą rezydencję na obrzeżach miasta
 - **Pharasma** - Bogini śmierci i życia. Kojarzymy wizję, ale nie wiemy czy to się faktycznie wydarzyło
 - **Lukas** - Oficer, który nas przyprowadził do gubernatora
-- **[Szefowa](Organizacje)** - Przywódczyni Gildii złodziei - Aktualnie przebywa
+- **[Szefowa](Organizacje)** - Przywódczyni Gildii złodziei - Aktualnie przebywa w wynajmowanym mieszkaniu w kamienicy z jej strażnikiem.
 - **Metalowy pies** - ???
+- **Felstein** - Martwy już posiadacz domu, muzeum, które spłonęło. Legenda.
 
 
 ## Miejsca
 - **Czerwone Rubiny** - Tawerna w której się zarejestrowaliśmy 
 
+## Miasta
+- **Iron haven** - Stolica postępu, maszyn, generalnie steampunk, miejsce naszych przygód, znajduje sie tutaj _Starozytny dziennik_
+
 ## Organizacje 
 - **Wyznawcy innego smoka/boga** - chca zabic **floppa**
 - **Gang płonącego miecza** = **Gildia złodziei** - sygnety są od niego
 
-## Sesja 1
-Tymoteusz Rajner - gubernator, wysoko postawiony spotkanie z pharasma - nie wiemy czy to się faktycznie wydarzyło
-------------------
-w iron haven znajduje sie starozytny dziennik
-dziennik był w starym domu Felsteina - muzeum, w piwnicy artefakty i inne cenne rzeczy dla tego miasta badacze wyruszyli 200 lat temu do strefy magicznego odosobnienia
+## Todo
+- [] "Obrabować" dom **Gubernatora**
+- [] "Zdobyć zaufanie **Szefowej**
 
-zawartość dziennika - była w nim informacja o nadejściu wybrańców bogów
+## Sesja 1
+_Starozytny dziennik_
+
+_Miejsce pobytu_ - Dziennik był w starym domu **Felsteina** - muzeum, w piwnicy artefakty i inne cenne rzeczy dla tego miasta badacze wyruszyli 200 lat temu do strefy magicznego odosobnienia
+_Zawartość dziennika_ - była w nim informacja o nadejściu wybrańców bogów
 
 dwa tygodnie temu wiadomość od rangerów, że ma przybyć cyrk, a nigdy on nie przybył tydzień temu stracili kontakt z gildią złodziei
 
@@ -54,8 +60,7 @@ proszek ze skrzyni - pozostałość z bomb, które użyli do napadu
 kryjowka w dokach 
 7 dni na rejestracja 
 
-
-szefowa zmienia miejsce gdzie siedzi - obecnie siedzi w wynajmowanym mieszkaniu w kamienicy jej strażnik siedzi cały czas z nią
+szefowa zmienia miejsce gdzie siedzi - 
 
 ## Sesja 3
 
@@ -72,11 +77,12 @@ cynk:
 - dzieciaki chcą się wjebać do domu gubernatora, mamy sprawić żeby im się krzywda nie stała, kręcą się gdzieś po slumsach, 
 
 gonienie Szymka
+Gubernator miał zmieniać ochronę i chcieli się wjebać jak dom będzie pusty 
 
-- gubernator miał zmieniać ochronę i chcieli się wjebać jak dom będzie pusty 
+### Napad 
 
-jutro 30 min o 21 jak strażnicy robią przerwę, będziemy mogli zajebać książkę obramowaną metalem, a w środku jest kamień, coś wygrawerował co będzie świadczyć, że to jest gubernatora
 
+Jutro o 21 strażnicy robią 30 minut przerwy, wchodzimy od tyłu, kradniemy książkę obramowaną metalem, a w środku jest wygrawerowany przez gubernatora kamień.
 
 ## Sesja 4
 

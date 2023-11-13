@@ -13,7 +13,7 @@
 - **Tymoteusz Rajner** - Gubernator, wysoko postawiony, rezyduje na codzień w wieży, ma drewnianą rezydencję na obrzeżach miasta
 - **Pharasma** - Bogini śmierci i życia. Kojarzymy wizję, ale nie wiemy czy to się faktycznie wydarzyło
 - **Lukas** - Oficer, który nas przyprowadził do gubernatora
-- [**Szefowa**](Gildia) - Przywódczyni Gildii złodziei - Aktualnie przebywa
+- [Szefowa](Gildia) - Przywódczyni Gildii złodziei - Aktualnie przebywa
 - **Metalowy pies** - ???
 
 

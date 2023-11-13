@@ -13,7 +13,7 @@
 - **Tymoteusz Rajner** - Gubernator, wysoko postawiony, rezyduje na codzień w wieży, ma drewnianą rezydencję na obrzeżach miasta
 - **Pharasma** - Bogini śmierci i życia. Kojarzymy wizję, ale nie wiemy czy to się faktycznie wydarzyło
 - **Lukas** - Oficer, który nas przyprowadził do gubernatora
-- **[Szefowa](Organizacje)** - Przywódczyni Gildii złodziei - Aktualnie przebywa w wynajmowanym mieszkaniu w kamienicy z jej strażnikiem.
+- **[Szefowa](#Organizacje)** - Przywódczyni Gildii złodziei - Aktualnie przebywa w wynajmowanym mieszkaniu w kamienicy z jej strażnikiem.
 - **Metalowy pies** - ???
 - **Felstein** - Martwy już posiadacz domu, muzeum, które spłonęło. Legenda.
 
@@ -82,7 +82,6 @@ gonienie Szymka
 Gubernator miał zmieniać ochronę i chcieli się wjebać jak dom będzie pusty 
 
 ### Napad 
-
 
 Jutro o 21 strażnicy robią 30 minut przerwy, wchodzimy od tyłu, kradniemy książkę obramowaną metalem, a w środku jest wygrawerowany przez gubernatora kamień.
 

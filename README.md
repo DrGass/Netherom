@@ -1,11 +1,27 @@
 # Netherom
 
+## Bohaterowie
+
+- **Ignis**  - Adi     - Automaton 
+- **Loot**   - Bartek  - Goblin
+- **Flopp**  - Next    - Kobold
+- **Ori**    - Panda   - Drzewo?
+- **Hasuda** - Gab     - Kitsune
+
 ## Osoby
+
+- **Tymoteusz Rajner** - gubernator, wysoko postawiony
+- **Lukas** - oficer, który nas przyprowadził do gubernatora, 
+
+
+## Miejsca
+- **Czerwone Rubiny** - Tawerna w której się zarejestrowaliśmy 
+
+## Organizacje 
+- **wyznawcy innego smoka/boga** - chca zabic **floppa**
 
 
 ## Sesja 1
-czerwone rubiny - miejsce spotkania
-wyznawcy innego smoka/boga - chca zabic floppa
 rejestracja grupy - przy smierci wyrejestrujemy sie automatycznie, jak reinkarnacja to przerejestrowac trzeba 
 
 kryjowka w dokach
@@ -14,7 +30,6 @@ metalowy pies
 
 szefowa zmienia miejsce gdzie siedzi - obecnie siedzi w wynajmowanym mieszkaniu w kamienicy
 jej strażnik siedzi cały czas z nią
-Tymoteusz Rajner - gubernator, wysoko postawiony
 spotkanie z pharazmą - nie wiemy czy to się faktycznie wydarzyło 
 
 ------------------
@@ -33,7 +48,6 @@ cel: przesłuchać złodziei
 raporty od strażników przy stoczni - słychać dźwięki pracy w stoczni kiedy powinni być one opuszczone
 pod stoczniami stare kanały odłączone od systemu i trzymane były zapasy, na jakieś wypadki
 
-Lukas - oficer, który nas przyprowadził do gubernatora, 
 zwrócić się do oficerów w koszarach jeżeli będziemy potrzebowali pomocy
 
 dzwięki pojawiają się różnie, przesuwanie używanie narzędzi, jak sprawdzał to nic nie było 

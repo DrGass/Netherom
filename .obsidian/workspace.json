@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sesja/Sesja 1.md",
+                "file": "Sesja/Sesja 6.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sesja/Sesja 1.md",
+                "file": "Sesja/Sesja 6.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sesja/Sesja 1.md",
+                "file": "Sesja/Sesja 6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sesja/Sesja 1.md"
+                "file": "Sesja/Sesja 6.md"
               }
             }
           },
@@ -137,8 +137,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -154,13 +153,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a03d50519fe2cc15",
+  "active": "291f6888a91203cc",
   "lastOpenFiles": [
-    "README.md",
     "Sesja/Sesja 4.md",
     "Sesja/Sesja 3.md",
     "Sesja/Sesja 2.md",
     "Sesja/Sesja 1.md",
+    "Sesja/Assety/piwnica w karczmie po teleporcie.png",
+    "Sesja/Sesja 6.md",
+    "README.md",
+    "Sesja/Assety",
     "Sesja"
   ]
 }

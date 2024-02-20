@@ -1,0 +1,27 @@
+- spotkamy się w czerwonym rubinie z goblinem
+- więzienie: 
+	- magiczne gówno w krześle 
+	- wychodza na przedpokoj lub most
+	- krzesło chwile się rozgrzewa 
+- rubin i rozmowa z Zaiterem
+	- jak był planowany atak na dom Felsteina to podobno brała w tym udział tez była cześć gildii złodziei - podejrzenia ze Eliza i gubernator cos z nimi nie tak - nie są ludźmi za których się podają 
+	- zaburzenia wśród istot w lesie - miejsce w którym rekrutuje się nowych ludzi do gildii - cos mówił o warzywach jak Ori 
+	- elf wspominał o namiocie większym w środku niż na zewnątrz  - przyniosło wielkie zmiany miastu
+	- do miasta przybył adept z Colegium Arcanum - miał dużo zwoi magicznych  - parę zakosił dla siebie - jeden ze zwojów który ukradł był zwojem nekromantycznym który tworzy lub niszczy jedzenie w małym obszarze, znaleźli go, wzięli za nekrusa i zamknęli
+- kryjowka Elizy
+	- okoliczne lasy:
+		- dzikie gobliny/koboldy 
+		- niedaleko, niedługo porzuconego, obozu treningowego widziane były jakieś leśne stworzenia - kiedy o tym mówi rośliny do niej się zbliżają ale tylko Ori to widzi
+	- Eliza - hesperith - nympha
+		- iron heaven - kiedyś dobre miejsce dla tych nymph
+		- kryła się w okolicznych lasach - przyjęta przez driady
+		- stara się dostać na szczyt (na miejsce gubernatora)
+		- jej ludzie (złodzieje) zostali zabici przez kapelusznika (elfa) i piekielną bestię 
+	- nymphy - przypisane są konkretnej rzeczy 
+		- hesperithy - przypisane są do miejsc gdzie widać zachód słońca
+- ucieczka z miasta przez kanały
+- błądziliśmy dwa dni po lesie i dowiedzieliśmy sie od drzewa ze na południu widziano jakiegoś gnoma z typami w fioletowych szatach i cyrkowy namiot
+- poszliśmy za driadami - Paniami Lasu i weszliśmy do drzewa 
+	- wiedzą gdzie znajduje się kapelusznik i kim on jest 
+	- gnom z nimi spiskuje
+	- bestia, która z nimi podróżuje jest tego samego gatunku co Ignis

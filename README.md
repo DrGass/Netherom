@@ -5,7 +5,7 @@
 - **Ignis**  - Adi     - Automaton 
 - **Loot**   - Bartek  - Goblin
 - **Flopp**  - Next    - Kobold
-- **Ori**    - Panda   - Ghoran
+- **Ori**    - Panda   - Ghoran 	&#9766;
 - **Hasuda** - Gab     - Kitsune
 
 ## Osoby

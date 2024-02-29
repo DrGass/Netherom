@@ -89,6 +89,77 @@ Jutro o 21 strażnicy robią 30 minut przerwy, wchodzimy od tyłu, kradniemy ksi
 
 ## Sesja 4
 
-Mapa lochu - 2sp - chuja widać 
+Mapa lochu - 2sp - chuja widać
 
 zostaniemy przeniesieni do więzienia, gdzie pozbywają się nekromantów
+
+zarejestrować bazę poprzez narysowanie runy na ścianie
+
+najlepsze elixiry w mieście
+
+w kolejce do alchemika dużo ras, które nie powinny mieć problemów z swoim zdrowiem na starość, a jednak przychodzą po jakieś elixiry/medykamenty - wynik nowych technologii, zła reakcja magicznych istot
+
+baza zarejestrowana - runa narysowana
+
+bezproblemowe wejście do domu gubernatora i zabranie książki - historia Rainerów i Iron Haven
+
+szelest w pokoju usłyszany przez Hasude
+
+książka o demonicznych bogach i diabelskich lordach:
+
+    nazwy bogów i imiona demonicznych lordów
+    jedno imię rzuciło się w oczy Floppa o demonicznym lordzi o jakiś nekromantycznych ciągotach o którym Bahamuth mu mówił w śnie
+    nic nie przypominam sobie o jakiś religiach z tego regionu z mojego poprzedniego życia
+
+kamień gubernatora - nie jest to sztuczny kamień tak jak myśleliśmy - zwykły rubin - wartościowy dla kolekcjonerów historycznych, kolonia Eisenbergu - kryształ znajdował się na różdżce pierwszego z Rainerów
+
+tunele pod kryjówką - skarbiec złodziei i kwatery mieszkalne - zalane i zawalone kwatery, możliwe że znajdziemy przejście do nich
+
+mniej pospolite magiczne przedmioty i scrolle szkoły nekromancji - coś mogło je aktywować i to mogło mieć wpływ na ludzi który zginęli w kanałach
+
+szefowa nie ma informacji na temat używaniu scrolli nekromatycznych przez goblina w pierdlu
+
+
+## Sesja 6
+
+cos się odpierdala w rgb skarbcu otwieramy drzwi widzimy jakaś piwnice z suchymi ścianami i drzewami czy cos później bambuzlowani jesteśmy wizja przestrzenna
+
+schemat pokoju ![[piwnica w karczmie po teleporcie.png]]
+
+teleportowało nas na południe od miasta do jakiejś karczmy trupa cyrkowa przejeżdżała tędy handlarz i rycerze - konflikt o magiczne przedmioty - spor ogarnięty, rycerze odpuścili, a handlarz zniknął za świetlistymi drzwiami
+
+dotarliśmy do miasta i od razu udaliśmy się do Lukasa, który zaprowadził nas do pierdla
+
+Loot i Ori wchodza do pierdla - szukaja goblina o imieniu Zajter podpisali papiery w pierdlu Loot ukrywa krzesiwo w dupie ale jest zlapany na gorącym uczynku
+więzienie dla nekromantów
+
+## Sesja 7,8,9
+
+- spotkamy się w czerwonym rubinie z goblinem
+- więzienie: 
+	- magiczne gówno w krześle 
+	- wychodza na przedpokoj lub most
+	- krzesło chwile się rozgrzewa 
+- rubin i rozmowa z Zaiterem
+	- jak był planowany atak na dom Felsteina to podobno brała w tym udział tez była cześć gildii złodziei - podejrzenia ze Eliza i gubernator cos z nimi nie tak - nie są ludźmi za których się podają 
+	- zaburzenia wśród istot w lesie - miejsce w którym rekrutuje się nowych ludzi do gildii - cos mówił o warzywach jak Ori 
+	- elf wspominał o namiocie większym w środku niż na zewnątrz  - przyniosło wielkie zmiany miastu
+	- do miasta przybył adept z Colegium Arcanum - miał dużo zwoi magicznych  - parę zakosił dla siebie - jeden ze zwojów który ukradł był zwojem nekromantycznym który tworzy lub niszczy jedzenie w małym obszarze, znaleźli go, wzięli za nekrusa i zamknęli
+- kryjowka Elizy
+	- okoliczne lasy:
+		- dzikie gobliny/koboldy 
+		- niedaleko, niedługo porzuconego, obozu treningowego widziane były jakieś leśne stworzenia - kiedy o tym mówi rośliny do niej się zbliżają ale tylko Ori to widzi
+	- Eliza - hesperith - nympha
+		- iron heaven - kiedyś dobre miejsce dla tych nymph
+		- kryła się w okolicznych lasach - przyjęta przez driady
+		- stara się dostać na szczyt (na miejsce gubernatora)
+		- jej ludzie (złodzieje) zostali zabici przez kapelusznika (elfa) i piekielną bestię 
+	- nymphy - przypisane są konkretnej rzeczy 
+		- hesperithy - przypisane są do miejsc gdzie widać zachód słońca
+- ucieczka z miasta przez kanały
+- błądziliśmy dwa dni po lesie i dowiedzieliśmy sie od drzewa ze na południu widziano jakiegoś gnoma z typami w fioletowych szatach i cyrkowy namiot
+- poszliśmy za driadami - Paniami Lasu i weszliśmy do drzewa 
+	- wiedzą gdzie znajduje się kapelusznik i kim on jest 
+	- gnom z nimi spiskuje
+	- bestia, która z nimi podróżuje jest tego samego gatunku co Ignis
+

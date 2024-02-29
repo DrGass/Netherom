@@ -8,14 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "291f6888a91203cc",
+            "id": "0ac6cae46dd6ba1d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "Sesja/Sesja 7, 8, 9.md",
-                "mode": "source",
-                "source": false
+                "file": ".obsidian/workspace.json",
+                "staged": false
               }
             }
           }
@@ -69,7 +68,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 245.5
   },
   "right": {
     "id": "123cdb63a96c30f1",
@@ -85,7 +84,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sesja/Sesja 7, 8, 9.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sesja/Sesja 7, 8, 9.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +121,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Sesja/Sesja 7, 8, 9.md"
-              }
+              "state": {}
             }
           },
           {
@@ -137,11 +132,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 381.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -153,14 +149,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "291f6888a91203cc",
+  "active": "0ac6cae46dd6ba1d",
   "lastOpenFiles": [
-    "Sesja/Sesja 3.md",
+    "Sesja/Sesja 10.md",
     "Sesja/Sesja 7, 8, 9.md",
+    "Sesja/Sesja 1.md",
+    "Sesja/Sesja 3.md",
+    "Sesja/Sesja 2.md",
     "Sesja/Sesja 6.md",
     "Sesja/Sesja 4.md",
-    "Sesja/Sesja 2.md",
-    "Sesja/Sesja 1.md",
     "Sesja/Assety/piwnica w karczmie po teleporcie.png",
     "README.md",
     "Sesja/Assety",

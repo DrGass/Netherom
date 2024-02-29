@@ -162,4 +162,7 @@ więzienie dla nekromantów
 	- wiedzą gdzie znajduje się kapelusznik i kim on jest 
 	- gnom z nimi spiskuje
 	- bestia, która z nimi podróżuje jest tego samego gatunku co Ignis
+## Sesja 10
+
+# Obskoczyliśmy wpierdol
 
